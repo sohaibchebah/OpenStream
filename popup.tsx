@@ -1,6 +1,7 @@
 import { useEffect, useState } from "react"
 
 import "./popup.css"
+import React from "react"
 
 function IndexPopup() {
   const [imgSrc, setImgSrc] = useState("")
